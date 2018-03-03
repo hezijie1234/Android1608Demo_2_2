@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="4764516321789048" >
+
+    <task
+        name="javac"
+        duration="1888" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="578" />
+    <task
+        name="verifier"
+        duration="122" />
+
+    <artifact
+        location="E:\workspace\studiowork\Android1608Demo_2\day38_coordinatorlayout_demo\build\outputs\apk\day38_coordinatorlayout_demo-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="4764516321789048" >
+        <artifact
+            location="E:\workspace\studiowork\Android1608Demo_2\day38_coordinatorlayout_demo\build\outputs\apk\day38_coordinatorlayout_demo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
